@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Helping Hands</string>
+
+    <string-array name="userType">
+        <item>Donator</item>
+        <item>Donatee</item>
+    </string-array>
+
+    <string-array name="NumberArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>Custom Amount</item>
+    </string-array>
+
+    <string-array name="Sort">
+        <item>Name</item>
+        <item>Area</item>
+        <item>Items Needed</item>
+    </string-array>
+
+    <string name="tab">\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009</string>
+
+</resources>
